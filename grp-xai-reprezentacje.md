@@ -1,7 +1,7 @@
 # Grupa: Analiza i Interpretowalność Reprezentacji w Nowoczesnych Modelach Głębokiego Uczenia
 
 ## Prowadzący
-Vladimir Zaigrajew
+Vladimir Zaigrajew (+Tymoteusz Kwiecinski)
 
 ## Opis
 W ramach warsztatów badawczych studenci będą uczestniczyć w projekcie dotyczącym nowoczesnych metod uczenia reprezentacji w głębokich sieciach neuronowych. Podczas zajęć zapoznają się z technikami tworzenia reprezentacji tekstowych i obrazowych, zarówno w podejściu uczenia nadzorowanego, jak i nienadzorowanego. Studenci poznają praktyczne zastosowania i metody oceny tych technik w zadaniach takich jak wyszukiwanie podobieństw (similarity search), ekstrakcja cech na potrzeby klasyfikacji, wykorzystanie w modelach typu vLLM czy zastosowania do dziedziny interpretowalności modeli.
