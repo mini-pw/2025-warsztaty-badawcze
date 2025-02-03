@@ -2,6 +2,23 @@
 
 Link USOS: https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1120-DS000-ISP-0363
 
+Terminy spotkań:
+- 2025-02-25 - Spotkanie organizacyjne - prezentacja tematów projektów - obecność obowiązkowa	
+- 2025-03-04 
+- 2025-03-11
+- 2025-03-18
+- 2025-03-25
+- 2025-04-01
+- 2025-04-08
+- 2025-04-15
+- 2025-04-29
+- 2025-05-06
+- 2025-05-20
+- 2025-05-27
+- 2025-06-03
+- 2025-06-10
+
+
 Grupy:
 - [Analiza i Interpretowalność Reprezentacji we Współczesnych Modelach Głębokiego Uczenia](https://github.com/mini-pw/2025-warsztaty-badawcze/blob/main/grp-xai-reprezentacje.md) (prowadzi: Vladimir Zaigrajew - 2 grupy, limit osob 30)
 - [Osobowość w sztucznej inteligencji: czy modele językowe potrzebują psychologii?](https://github.com/mini-pw/2025-warsztaty-badawcze/blob/main/grp-llm-psych.md) (prowadzi: Wiktoria Mieleszczenko-Kowszewicz - 1 grupa, limit osob 15)
