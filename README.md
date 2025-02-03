@@ -2,7 +2,7 @@
 
 Link USOS: https://usosweb.usos.pw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1120-DS000-ISP-0363
 
-Terminy spotkań:
+Terminy spotkań (wykład - sala 101 16:15-17:45):
 - 2025-02-25 - Spotkanie organizacyjne - prezentacja tematów projektów - obecność obowiązkowa	
 - 2025-03-04 
 - 2025-03-11
