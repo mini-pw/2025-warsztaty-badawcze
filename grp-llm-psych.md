@@ -1,7 +1,7 @@
 # Grupa: Osobowość w sztucznej inteligencji: czy modele językowe potrzebują psychologii?
 
 ## Prowadzący
-Wiktoria Mieleszczenko-Kowszewicz
+Wiktoria Mieleszczenko-Kowszewicz + Agata Kaczmarek
 
 ## Opis
 W ramach projektów badawczych studenci skoncentruje się na analizie interakcji modeli językowych (LLM) z perspektywy psychologii osobowości oraz lingwistyki. Głównym celem jest zbadanie, w jaki sposób różne typy osobowości, zarówno zaszyte w promptach, jak i symulowane przez modele, wpływają na charakter generowanych odpowiedzi. Projekt obejmuje kilka zagadnień:
