@@ -21,5 +21,9 @@ W ramach projektów badawczych studenci skoncentruje się na analizie interakcji
 - Safdari, M., Serapio-García, G., Crepy, C., Fitz, S., Romero, P., Sun, L., Fitz, S., Romero, P., Abdulhai, M.,  Faust, A. & Matarić, M. (2023). Personality traits in large language models. https://arxiv.org/abs/2307.00184
 - Wilczyński, P., Mieleszczenko-Kowszewicz, W. & Biecek, P. (2024). Resistance Against Manipulative AI: key factors and possible actions. In: 27th European Conference on Artificial Intelligence. IOS Press.
 - Zhang, J., Liu, D., Qian, C., Gan, Z., Liu, Y., Qiao, Y., & Shao, J. (2024). The better angels of machine personality: How personality relates to llm safety. https://arxiv.org/abs/2407.12344
-- Zou, H., Wang, P., Yan, Z., Sun, T., & Xiao, Z. (2024). Can LLM" Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots. https://arxiv.org/abs/2412.00207 (edited) 
+- Zou, H., Wang, P., Yan, Z., Sun, T., & Xiao, Z. (2024). Can LLM" Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots. https://arxiv.org/abs/2412.00207 (edited)
+
+## Repozytorium zająć:
+
+https://github.com/WiktoriaMK/PW_warsztaty_badawcze 
 
