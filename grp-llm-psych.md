@@ -23,6 +23,16 @@ W ramach projektów badawczych studenci skoncentruje się na analizie interakcji
 - Zhang, J., Liu, D., Qian, C., Gan, Z., Liu, Y., Qiao, Y., & Shao, J. (2024). The better angels of machine personality: How personality relates to llm safety. https://arxiv.org/abs/2407.12344
 - Zou, H., Wang, P., Yan, Z., Sun, T., & Xiao, Z. (2024). Can LLM" Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots. https://arxiv.org/abs/2412.00207 (edited)
 
+## Punktacja
+max. 60 punktów:
+
+1. 2 prace domowe : 4 pkt każda, łącznie max. 8 punktów 
+2. Prezentacja literatury : 12 pkt 
+3. 2 kamienie milowe : 20 pkt każdy, łącznie max. 20 punktów
+   
+
+
+
 ## Repozytorium zająć:
 
 https://github.com/WiktoriaMK/PW_warsztaty_badawcze 
