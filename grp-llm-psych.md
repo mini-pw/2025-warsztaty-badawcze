@@ -28,7 +28,7 @@ max. 60 punktów:
 
 1. 2 prace domowe : 4 pkt każda, łącznie max. 8 punktów 
 2. Prezentacja literatury : 12 pkt 
-3. 2 kamienie milowe : 20 pkt każdy, łącznie max. 20 punktów
+3. 2 kamienie milowe : 20 pkt każdy, łącznie max. 40 punktów
    
 
 
