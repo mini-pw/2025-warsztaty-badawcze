@@ -40,7 +40,7 @@ Końcowa ocena zależy od liczby uzyskanych punktów w następujący sposób
 
 ## Grupy projektowe
 
-- [Analiza i Interpretowalność Reprezentacji we Współczesnych Modelach Głębokiego Uczenia](https://github.com/mini-pw/2025-warsztaty-badawcze/blob/main/grp-xai-reprezentacje.md) (prowadzi: Vladimir Zaigrajew - 2 grupy, limit osob 30)
+- [Analiza i Interpretowalność Reprezentacji we Współczesnych Modelach Głębokiego Uczenia](https://github.com/WolodjaZ/Warsztaty-badawcze-2-2025) (prowadzi: Vladimir Zaigrajew - 2 grupy, limit osob 30)
 - [Osobowość w sztucznej inteligencji: czy modele językowe potrzebują psychologii?](https://github.com/mini-pw/2025-warsztaty-badawcze/blob/main/grp-llm-psych.md) (prowadzi: Wiktoria Mieleszczenko-Kowszewicz - 1 grupa, limit osob 15)
 - [Wyzwania w przetwarzaniu danych obrazowych MRI mózgu](https://github.com/mini-pw/2025-warsztaty-badawcze/blob/main/grp-mri-brain.md) (prowadzi: Bartosz Kochański - 1 grupa, limit osob 15)
 - [Współpraca i wzorce w grze interaktywnej](https://github.com/mini-pw/2025-warsztaty-badawcze/blob/main/grp-ortho-cooperation.md) (prowadzi: Julian Sienkiewicz - 1 grupa, limit osob 15)
