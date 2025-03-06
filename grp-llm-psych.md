@@ -28,12 +28,13 @@ max. 60 punktów:
 
 1. 2 prace domowe : 4 pkt każda, łącznie max. 8 punktów 
 2. Prezentacja literatury : 12 pkt 
-3. 2 kamienie milowe : 20 pkt każdy, łącznie max. 40 punktów
+3. Projekt :
+   - Kamień milowy 1 -> 10 pkt
+   - Kamień milowy 2 -> 20 pkt
+   - Prezentacja projektu -> 10 pkt
    
 
-
-
-## Repozytorium zająć:
+## Repozytorium zajęć:
 
 https://github.com/WiktoriaMK/PW_warsztaty_badawcze 
 
